@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1082147310949",
+    "project_id": "luamlaos",
+    "storage_bucket": "luamlaos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082147310949:android:7d6e0cc6e3a2772656258c",
+        "android_client_info": {
+          "package_name": "com.luamlaos.main"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082147310949-b8832rnpo4sva9nk7t9nqgob0rvs4eed.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.luamlaos.main",
+            "certificate_hash": "09d5c6704dfd7dfc56b0e2a07d2e60900e414b07"
+          }
+        },
+        {
+          "client_id": "1082147310949-8asmkt47b9irtkvf5r1u6h60tim5ss89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6sId6oUNv4AynZjIW7am6X81XkS91k-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082147310949-8asmkt47b9irtkvf5r1u6h60tim5ss89.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1082147310949-5ksph8g2fblnad88kvkjanagv6jsitnn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.luamlaos.main"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

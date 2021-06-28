@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string name="app_name">luamlaos</string>
+    <string name="facebook_app_id">309094397540259</string>
+               <string name="fb_login_protocol_scheme">fb309094397540259</string>
+</resources>
